@@ -2,7 +2,7 @@
 
 ###SKILLS
 
-Web Development, JavaScript, HTML5, CSS3, Node.js, Hapi.js, Git, React.js, D3.js, PostgreSQL, TDD, Jade, JQuery, MongoDB, Amazon S3, pair programming, REST APIs, npm, Heroku and more.
+Have been working on a variety of projects for clients, using the following technologies: Javascript, HTML5, CSS3, Hapi.js, Node.js, npm, React.js, MongoDB, PostgreSQL, D3, Git, jQuery, gulp, Test Driven Development, Amazon S3, Mobile-first, Heroku, Bootstrap, BEM, Jade and more.
 
 ---
 
