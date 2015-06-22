@@ -5,19 +5,19 @@
 Have been working on a variety of projects for clients, using the following technologies:
 
 Languages:
-Javascript
-Node.js
-HTML5
-CSS3
-SQL
-Jade
+* Javascript
+* Node.js
+* HTML5
+* CSS3
+* SQL
+* Jade
 
 Frameworks and libraries:
-Hapi.js
-React.js
-Bootstrap
-jQuery
-D3
+* Hapi.js
+* React.js
+* Bootstrap
+* jQuery
+* D3
 
 Databases:
 PostgreSQL
