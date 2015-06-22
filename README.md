@@ -4,13 +4,7 @@
 
 Have been working on a variety of projects for clients, using the following technologies:
 
-Languages:
-* Javascript
-* Node.js
-* HTML5
-* CSS3
-* SQL
-* Jade
+**Languages** | Javascript | Node.js | HTML5 | CSS3 | SQL | Jade |
 
 Frameworks and libraries:
 * Hapi.js
