@@ -14,7 +14,6 @@ Have been working on a variety of projects for clients, using the following tech
 | Jade      |                      |           | BEM pattern  | |
 
 
-----
 
 ###EXPERIENCE
 
