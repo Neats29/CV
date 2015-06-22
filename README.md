@@ -4,35 +4,16 @@
 
 Have been working on a variety of projects for clients, using the following technologies:
 
-**Languages** | Javascript | Node.js | HTML5 | CSS3 | SQL | Jade |
+| Languages | Frameworks/Libraries | Testing   | Tools/Others | Databases |
+|:---------:|:--------------------:|:---------:|:------------:|:---------:|
+| Javascript| Hapi.js              | Tape/tap  | Git          | PostgreSQL|
+| Node.js   | React.js             | Jest      | npm          | MongoDB   |
+| HTML5     | Bootstrap            | QUnit     | gulp         | |
+| CSS3      | jQuery               | Mocha     | Amazon S3    | |
+| SQL       | D3                   |           | Heroku       | | 
+| Jade      |                      |           | BEM pattern  | |
 
-Frameworks and libraries:
-* Hapi.js
-* React.js
-* Bootstrap
-* jQuery
-* D3
-
-Databases:
-PostgreSQL
-MongoDB
-
-Testing:
-Tape/tap
-Jest
-QUnit
-Mocha
-
-Tools and others:
-npm
-Git
-gulp
-Amazon S3
-Heroku
-BEM pattern
-Mobile-first
-
----
+----
 
 ###EXPERIENCE
 
