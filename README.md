@@ -2,7 +2,41 @@
 
 ###SKILLS
 
-Have been working on a variety of projects for clients, using the following technologies: Javascript, HTML5, CSS3, Hapi.js, Node.js, npm, React.js, MongoDB, PostgreSQL, D3, Git, jQuery, gulp, Test Driven Development, Amazon S3, Mobile-first, Heroku, Bootstrap, BEM, Jade and more.
+Have been working on a variety of projects for clients, using the following technologies:
+
+Languages:
+Javascript
+Node.js
+HTML5
+CSS3
+SQL
+Jade
+
+Frameworks and libraries:
+Hapi.js
+React.js
+Bootstrap
+jQuery
+D3
+
+Databases:
+PostgreSQL
+MongoDB
+
+Testing:
+Tape/tap
+Jest
+QUnit
+Mocha
+
+Tools and others:
+npm
+Git
+gulp
+Amazon S3
+Heroku
+BEM pattern
+Mobile-first
 
 ---
 
