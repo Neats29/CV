@@ -13,6 +13,7 @@ Have been working on a variety of projects for clients, using the following tech
 | SQL       | D3                   |           | Heroku       | | 
 | Jade      |                      |           | BEM pattern  | |
 
+
 ----
 
 ###EXPERIENCE
