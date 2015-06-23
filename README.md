@@ -11,7 +11,7 @@ Have been working on a variety of projects for clients, using the following tech
 | HTML5     | Bootstrap            | QUnit     | gulp         | |
 | CSS3      | jQuery               | Mocha     | Amazon S3    | |
 | SQL       | D3                   |           | Heroku       | | 
-| Jade      |                      |           | BEM pattern  | |
+| Jade      | Concise.css          |           | BEM pattern  | |
 
 
 
