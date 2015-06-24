@@ -12,6 +12,7 @@ Have been working on a variety of projects for clients, using the following tech
 | CSS3      | jQuery               | Mocha     | Amazon S3    | |
 | SQL       | D3                   |           | Heroku       | | 
 | Jade      | Concise.css          |           | BEM pattern  | |
+|           |                      |           | Linux        | |
 
 
 
