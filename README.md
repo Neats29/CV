@@ -27,6 +27,7 @@ I have been working on a variety of projects for clients, using the following te
 - [Photo ID App](http://kiwi-id.herokuapp.com/)
 - [A Productivity App for Managing Data]()
 - [Map App for Local Businesses]() - close sourced
+- [A Learning Resource for Founders & Coders Students](https://github.com/Neats29/Learn-Heroku)
 
 
 ###EDUCATION
