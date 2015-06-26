@@ -20,11 +20,10 @@ I have been working on a variety of projects for clients, using the following te
 
 ###PROJECTS
 
-- [Crowdsourced Fashion App](http://crowdsourced-fashion.herokuapp.com/)
-
-- [Education App](http://pajoa.herokuapp.com/)
-- [Puzzle for Toddlers](https://troll-olav.herokuapp.com/)
 - [Photo ID App](http://kiwi-id.herokuapp.com/)
+- [Education App](http://pajoa.herokuapp.com/)
+- [Crowdsourced Fashion App](http://crowdsourced-fashion.herokuapp.com/)
+- [Puzzle for Toddlers](https://troll-olav.herokuapp.com/)
 - [A Productivity App for Managing Data]()
 - [Map App for Local Businesses]() - close sourced
 - [A Learning Resource for Founders & Coders Students](https://github.com/Neats29/Learn-Heroku)
@@ -32,8 +31,8 @@ I have been working on a variety of projects for clients, using the following te
 
 ###EDUCATION
 
-
-BSC Hons Pharmaceutical Science 2:1  (2009 - 2012)
+8-Week Intensive Web Development Course (Jan 2015 - March 2015)
+BSC Hons Pharmaceutical Science 2:1  (Sep 2009 - July 2012)
 
 ###LINKS
 
