@@ -20,7 +20,7 @@ I have been working on a variety of projects for clients, using the following te
 
 ###PROJECTS
 
-- [Photo ID App](http://kiwi-id.herokuapp.com/)
+- [Photo ID App](photoId.md)
 - [Education App](http://pajoa.herokuapp.com/)
 - [Crowdsourced Fashion App](http://crowdsourced-fashion.herokuapp.com/)
 - [Puzzle for Toddlers](https://troll-olav.herokuapp.com/)
