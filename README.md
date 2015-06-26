@@ -18,7 +18,7 @@ I have been working on a variety of projects for clients, using the following te
 
 ###EXPERIENCE
 
-![](./fac.png =80x20)
+![](./fac.png)
 
 - Full Stack Freelance Developer (Mar 2015 - Current)
 - 8-Week Intensive Web Development Course (Jan 2015 - Mar 2015) 
@@ -28,6 +28,7 @@ I have been working on a variety of projects for clients, using the following te
 
 - Clinical Data Manager (May 2014 - Feb 2015)
 - Clinical Trials Assistant (May 2013 - May 2014)
+
 --- 
 ###PROJECTS
 
