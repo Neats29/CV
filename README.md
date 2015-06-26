@@ -19,8 +19,13 @@ I have been working on a variety of projects for clients, using the following te
 ###EXPERIENCE
 Founders & Coders:
 
-- Full Stack Freelance Developer (March 2015 - Current)
-- 8-Week Intensive Web Development Course (Jan 2015 - March 2015) 
+- Full Stack Freelance Developer (Mar 2015 - Current)
+- 8-Week Intensive Web Development Course (Jan 2015 - Mar 2015) 
+
+Medical Research Council at UCL:
+
+- Clinical Data Manager (May 2014 - Feb 2015)
+- Clinical Trials Assistant (May 2013 - May 2014)
 
 ###PROJECTS
 
