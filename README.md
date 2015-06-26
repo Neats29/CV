@@ -2,7 +2,7 @@
 
 ###SKILLS
 
-Have been working on a variety of projects for clients, using the following technologies:
+I have been working on a variety of projects for clients, using the following technologies:
 
 | Languages | Frameworks/Libraries | Testing   | Tools/Others | Databases |
 |:---------:|:--------------------:|:---------:|:------------:|:---------:|
@@ -16,9 +16,26 @@ Have been working on a variety of projects for clients, using the following tech
 
 
 
-###EXPERIENCE
+<!--###EXPERIENCE-->
 
 ###PROJECTS
 
+- [Crowdsourced Fashion App](http://crowdsourced-fashion.herokuapp.com/)
+
+- [Education App](http://pajoa.herokuapp.com/)
+- [Puzzle for Toddlers](https://troll-olav.herokuapp.com/)
+- [Photo ID App](http://kiwi-id.herokuapp.com/)
+- [A Productivity App for Managing Data]()
+- [Map App for Local Businesses]() - close sourced
+
 
 ###EDUCATION
+
+
+BSC Hons Pharmaceutical Science 2:1  (2009 - 2012)
+
+###LINKS
+
+- [LinkedIn](https://uk.linkedin.com/in/anitaamini)
+- [Personal Website](neats29.github.io)
+- [Twitter](https://twitter.com/neats29)
