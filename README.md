@@ -10,7 +10,7 @@ I have been working on a variety of projects for clients, using the following te
 | Node.js   | React.js             | Jest      | npm          | MongoDB   |
 | HTML5     | Bootstrap            | QUnit     | gulp         | |
 | CSS3      | jQuery               | Mocha     | Amazon S3    | |
-| SQL       | D3                   |           | Heroku       | | 
+| SQL       | D3                   | Lab       | Heroku       | | 
 | Jade      | Concise.css          |           | BEM pattern  | |
 | Sass      |                      |           | Linux        | |
 
