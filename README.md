@@ -17,16 +17,18 @@ I have been working on a variety of projects for clients, using the following te
 
 
 ###EXPERIENCE
-Founders & Coders:
+
+![](./fac.png =80x20)
 
 - Full Stack Freelance Developer (Mar 2015 - Current)
 - 8-Week Intensive Web Development Course (Jan 2015 - Mar 2015) 
 
-Medical Research Council at UCL:
+
+![](mrc.png)
 
 - Clinical Data Manager (May 2014 - Feb 2015)
 - Clinical Trials Assistant (May 2013 - May 2014)
-
+--- 
 ###PROJECTS
 
 - [Photo ID App](photoId.md)
@@ -37,10 +39,11 @@ Medical Research Council at UCL:
 - [Map App for Local Businesses]() - close sourced
 - [A Learning Resource for Founders & Coders Students](https://github.com/Neats29/Learn-Heroku)
 
-
+---
 ###EDUCATION
 - BSc Hons Pharmaceutical Science 2:1  (Sep 2009 - July 2012)
 
+---
 ###LINKS
 
 - [LinkedIn](https://uk.linkedin.com/in/anitaamini)
