@@ -18,8 +18,9 @@ I have been working on a variety of projects for clients, using the following te
 
 ###EXPERIENCE
 Founders & Coders:
+
+- Full Stack Freelance Developer (March 2015 - Current)
 - 8-Week Intensive Web Development Course (Jan 2015 - March 2015) 
-- Full Stack Freelance Developer (March 2015 - Current) 
 
 ###PROJECTS
 
