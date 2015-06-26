@@ -31,8 +31,8 @@ I have been working on a variety of projects for clients, using the following te
 
 ###EDUCATION
 
-8-Week Intensive Web Development Course (Jan 2015 - March 2015)
-BSC Hons Pharmaceutical Science 2:1  (Sep 2009 - July 2012)
+- 8-Week Intensive Web Development Course (Jan 2015 - March 2015)
+- BSc Hons Pharmaceutical Science 2:1  (Sep 2009 - July 2012)
 
 ###LINKS
 
