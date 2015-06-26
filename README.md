@@ -12,11 +12,12 @@ I have been working on a variety of projects for clients, using the following te
 | CSS3      | jQuery               | Mocha     | Amazon S3    | |
 | SQL       | D3                   |           | Heroku       | | 
 | Jade      | Concise.css          |           | BEM pattern  | |
-|           |                      |           | Linux        | |
+| Sass      |                      |           | Linux        | |
 
 
 
-<!--###EXPERIENCE-->
+###EXPERIENCE
+Founders & Coders - Full Stack Freelance Developer (March 2015 - Current) 
 
 ###PROJECTS
 
