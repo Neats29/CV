@@ -24,6 +24,7 @@ I have been working on a variety of projects for clients, using the following te
 - [A Productivity App for Managing Data]()
 - [Map App for Local Businesses]() - close source
 - [A Learning Resource for Founders & Coders Students](https://github.com/Neats29/Learn-Heroku)
+- [Open source text editor theme extension](https://github.com/Neats29/Brackets-Midnight-Blue-Theme)
 
 ---
 
@@ -41,19 +42,6 @@ I have been working on a variety of projects for clients, using the following te
 - Clinical Trials Assistant (May 2013 - May 2014)
 
 --- 
-
-###PROJECTS
-
-- [Photo ID App](photoId.md)
-- [Education App](http://pajoa.herokuapp.com/)
-- [Crowdsourced Fashion App](http://crowdsourced-fashion.herokuapp.com/)
-- [Puzzle for Toddlers](https://troll-olav.herokuapp.com/)
-- [A Productivity App for Managing Data]()
-- [Map App for Local Businesses]() - close sourced
-- [A Learning Resource for Founders & Coders Students](https://github.com/Neats29/Learn-Heroku)
-- [Open source text editor theme extension](https://github.com/Neats29/Brackets-Midnight-Blue-Theme)
-
----
 
 ###EDUCATION
 - BSc Hons Pharmaceutical Science 2:1  (Sep 2009 - Jul 2012)
