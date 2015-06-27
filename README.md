@@ -6,19 +6,30 @@ I have been working on a variety of projects for clients, using the following te
 
 | Languages | Frameworks/Libraries | Testing   | Tools/Others | Databases |
 |:---------:|:--------------------:|:---------:|:------------:|:---------:|
-| Javascript| Hapi.js              | Tape/tap  | Git          | PostgreSQL|
+| Javascript| Hapi.js              | Tape/Tap  | Git          | PostgreSQL|
 | Node.js   | React.js             | Jest      | npm          | MongoDB   |
 | HTML5     | Bootstrap            | QUnit     | gulp         | |
-| CSS3      | jQuery               | Mocha     | Amazon S3    | |
-| SQL       | D3                   | Lab       | Heroku       | | 
+| CSS3      | jQuery               | Lab       | Amazon S3    | |
+| SQL       | D3                   | Mocha     | Heroku       | | 
 | Jade      | Concise.css          |           | BEM pattern  | |
 | Sass      |                      |           | Linux        | |
 
+---
+###PROJECTS
 
+- [Photo ID App](photoId.md)
+- [Education App](http://pajoa.herokuapp.com/)
+- [Crowdsourced Fashion App](http://crowdsourced-fashion.herokuapp.com/)
+- [Puzzle for Toddlers](https://troll-olav.herokuapp.com/)
+- [A Productivity App for Managing Data]()
+- [Map App for Local Businesses]() - close source
+- [A Learning Resource for Founders & Coders Students](https://github.com/Neats29/Learn-Heroku)
+
+---
 
 ###EXPERIENCE
 
-![](./fac.png)
+<img src="https://github.com/Neats29/CV/blob/master/fac.png" width="48">
 
 - Full Stack Freelance Developer (Mar 2015 - Current)
 - 8-Week Intensive Web Development Course (Jan 2015 - Mar 2015) 
@@ -30,6 +41,7 @@ I have been working on a variety of projects for clients, using the following te
 - Clinical Trials Assistant (May 2013 - May 2014)
 
 --- 
+
 ###PROJECTS
 
 - [Photo ID App](photoId.md)
@@ -42,8 +54,9 @@ I have been working on a variety of projects for clients, using the following te
 - [Open source text editor theme extension](https://github.com/Neats29/Brackets-Midnight-Blue-Theme)
 
 ---
+
 ###EDUCATION
-- BSc Hons Pharmaceutical Science 2:1  (Sep 2009 - July 2012)
+- BSc Hons Pharmaceutical Science 2:1  (Sep 2009 - Jul 2012)
 
 ---
 ###LINKS
