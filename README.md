@@ -39,6 +39,7 @@ I have been working on a variety of projects for clients, using the following te
 - [A Productivity App for Managing Data]()
 - [Map App for Local Businesses]() - close sourced
 - [A Learning Resource for Founders & Coders Students](https://github.com/Neats29/Learn-Heroku)
+- [Open source text editor theme extension](https://github.com/Neats29/Brackets-Midnight-Blue-Theme)
 
 ---
 ###EDUCATION
