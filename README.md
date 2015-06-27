@@ -29,7 +29,7 @@ I have been working on a variety of projects for clients, using the following te
 
 ###EXPERIENCE
 
-![](./fac.png)
+<img src="https://github.com/Neats29/CV/blob/master/fac.png" width="48">
 
 - Full Stack Freelance Developer (Mar 2015 - Current)
 - 8-Week Intensive Web Development Course (Jan 2015 - Mar 2015) 
