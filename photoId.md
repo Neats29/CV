@@ -18,6 +18,7 @@ A single page application for students to upload their photo ID and use at drink
 - Amazon S3
 - Jade (Templating Language)
 - Bootstrap
+- Gulp
 - Facebook Authentication
 
 ###Links
