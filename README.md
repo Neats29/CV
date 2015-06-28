@@ -47,7 +47,7 @@ I have been working on a variety of projects for clients, using the following te
 - [Photo ID App](photoId.md)
 - [Education App](http://pajoa.herokuapp.com/)
 - [Crowdsourced Fashion App](http://crowdsourced-fashion.herokuapp.com/)
-- [Puzzle for Toddlers](https://troll-olav.herokuapp.com/)
+- [Puzzle for Toddlers](puzzle.md)
 - [A Productivity App for Managing Data]()
 - [Map App for Local Businesses]() - close sourced
 - [A Learning Resource for Founders & Coders Students](https://github.com/Neats29/Learn-Heroku)
