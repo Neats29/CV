@@ -1,5 +1,7 @@
 # CV
 
+I am a passionate JavaScript and Node.js developer. I love the process of making web applications from the frontend logic and design aspects to the querying of databases and writing the backend process. 
+
 ###SKILLS
 
 I have been working on a variety of projects for clients, using the following technologies:
@@ -21,7 +23,7 @@ I have been working on a variety of projects for clients, using the following te
 - [Education App](http://pajoa.herokuapp.com/)
 - [Crowdsourced Fashion App](http://crowdsourced-fashion.herokuapp.com/)
 - [Puzzle for Toddlers](puzzle.md)
-- [A Productivity App for Managing Data](wesort)
+- [A production-Process Management Tool](wesort)
 - [Map App for Local Businesses]() - close source
 - [A Learning Resource for Founders & Coders Students](https://github.com/Neats29/Learn-Heroku)
 - [Open source text editor theme extension](https://github.com/Neats29/Brackets-Midnight-Blue-Theme)
