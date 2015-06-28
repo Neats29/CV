@@ -21,21 +21,22 @@ I have been working on a variety of projects for clients, using the following te
 - [Education App](http://pajoa.herokuapp.com/)
 - [Crowdsourced Fashion App](http://crowdsourced-fashion.herokuapp.com/)
 - [Puzzle for Toddlers](https://troll-olav.herokuapp.com/)
-- [A Productivity App for Managing Data]()
+- [A Productivity App for Managing Data](wesort)
 - [Map App for Local Businesses]() - close source
 - [A Learning Resource for Founders & Coders Students](https://github.com/Neats29/Learn-Heroku)
+- [Open source text editor theme extension](https://github.com/Neats29/Brackets-Midnight-Blue-Theme)
 
 ---
 
 ###EXPERIENCE
 
-<img src="https://github.com/Neats29/CV/blob/master/fac.png" width="48">
+<img src="https://github.com/Neats29/CV/blob/master/fac.png" width="150">
 
 - Full Stack Freelance Developer (Mar 2015 - Current)
 - 8-Week Intensive Web Development Course (Jan 2015 - Mar 2015) 
 
 
-![](mrc.png)
+<img src="https://github.com/Neats29/CV/blob/master/mrc.png" width="150">
 
 - Clinical Data Manager (May 2014 - Feb 2015)
 - Clinical Trials Assistant (May 2013 - May 2014)
