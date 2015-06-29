@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+##A Productivity App for Managing Data
+=======
 ###A production-Process Management Tool
+>>>>>>> master
 
 The application is for a business that offers bespoke supplies. They have thousands of records and many job items within a single order. I was reponsible for developing the challenging relational database logic between tables, as well as other backend functionalites.
 

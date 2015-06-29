@@ -1,4 +1,4 @@
-###Photo ID App
+##Photo ID App
 
 A single page application for students to upload their photo ID and use at drinking establishments as proof of age. This would avoid potential loss of driving licenses/passports which is a common occurance among the target group. 
 
