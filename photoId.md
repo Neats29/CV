@@ -2,6 +2,8 @@
 
 A single page application for students to upload their photo ID and use at drinking establishments as proof of age. This would avoid potential loss of driving licenses/passports which is a common occurance among the target group. 
 
+I was responsible for the majority of the backend logic as well as the frontend and UI features. The client was very happy with the outcome and is now piloting the first phase. 
+
 ####Upload Page
 ![](kiwi-upload.png)
 

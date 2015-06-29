@@ -21,10 +21,10 @@ I have been working on a variety of projects for clients, using the following te
 
 - [Photo ID App](photoId.md)
 - [A production-Process Management Tool](productivity.md)
-- [Education App](http://pajoa.herokuapp.com/)
 - [Puzzle for Toddlers](puzzle.md)
+- [Map App for Local Businesses](map.md) - close source
 - [Crowdsourced Fashion App](http://crowdsourced-fashion.herokuapp.com/)
-- [Map App for Local Businesses]() - close source
+- [Education App](http://pajoa.herokuapp.com/)
 - [A Learning Resource for Founders & Coders Students](https://github.com/Neats29/Learn-Heroku)
 - [Open source text editor theme extension](https://github.com/Neats29/Brackets-Midnight-Blue-Theme)
 
