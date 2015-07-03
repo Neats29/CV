@@ -12,9 +12,10 @@ I have been working on a variety of projects for clients, using the following te
 | Node.js   | React.js             | Jest      | npm          | MongoDB   |
 | HTML5     | Bootstrap            | QUnit     | gulp         | |
 | CSS3      | jQuery               | Lab       | Amazon S3    | |
-| SQL       | D3                   | Mocha     | Heroku       | | 
+| SQL       | Leaflet.js           | Mocha     | Heroku       | | 
 | Jade      | Concise.css          |           | Linux        | |
-| Sass      |                      |           |              | |
+| Sass      | Codeship             |           |              | |
+|           | D3
 
 ---
 ###PROJECTS
