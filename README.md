@@ -56,4 +56,5 @@ I have been working on a variety of projects for clients, using the following te
 
 - [LinkedIn](https://uk.linkedin.com/in/anitaamini)
 - [Personal Website](neats29.github.io)
+- [email: baadge29@yahoo.co.uk](mailto:baadge29@yahoo.co.uk)
 - [Twitter](https://twitter.com/neats29)
