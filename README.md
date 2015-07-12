@@ -65,4 +65,4 @@ I have been working on a variety of projects for clients, using the following te
 * Food science
 * Documentaries
 * Co-operatives
-* ..and many more
+* ...and many more
