@@ -36,7 +36,7 @@ I have been working on a variety of projects for clients, using the following te
 
 <img src="https://github.com/Neats29/CV/blob/master/fac.png" width="150">
 
-- Full Stack Freelance Developer (Mar 2015 - Current)
+- Full Stack Freelance Developer (Mar 2015 - Present)
 - 8-Week Intensive Web Development Course (Jan 2015 - Mar 2015) 
 
 
