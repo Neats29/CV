@@ -60,9 +60,9 @@ I have been working on a variety of projects for clients, using the following te
 - [Twitter](https://twitter.com/neats29)
 
 ###INTERESTS
-Learning
-Music Production
-Food science
-Documentaries
-Co-operatives
-..and many more
+* Learning
+* Music Production
+* Food science
+* Documentaries
+* Co-operatives
+* ..and many more
