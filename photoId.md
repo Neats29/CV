@@ -4,14 +4,14 @@ A single page application for students to upload their photo ID and use at drink
 
 I was responsible for the majority of the backend logic as well as the frontend and UI features. The client was very happy with the outcome and is now piloting the first phase. 
 
-####Upload Page
+###Upload Page
 ![](kiwi-upload.png)
 
 
-####Profile Page
+###Profile Page
 ![](kiwi-profile.png)
 
-####Admin Page
+###Admin Page
 ![](kiwi-admin.png)
 
 ###Technology Stack
