@@ -10,11 +10,12 @@ The project is not yet finished so the images are not fully representative of th
 ![](map.png)
 
 
+###Login page
+![](login.png)
+
 ###Navbar showing the drop down
 ![](cat.png)
 
-###Login page
-![](login.png)
 
 ####Technology Stack
 - Hapi.js

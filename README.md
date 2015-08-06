@@ -12,21 +12,23 @@ I have been working on a variety of projects for clients, using the following te
 | Node.js   | React.js             | Jest      | npm          | MongoDB   |
 | HTML5     | Bootstrap            | QUnit     | gulp         | |
 | CSS3      | jQuery               | Lab       | Amazon S3    | |
-| SQL       | D3                   | Mocha     | Heroku       | | 
-| Jade      | Concise.css          |           | BEM pattern  | |
-| Sass      |                      |           | Linux        | |
+| SQL       | Leaflet.js           | Mocha     | Heroku       | | 
+| Jade      | Concise.css          |           | Linux        | |
+| Sass      | Codeship             |           |              | |
+|           | D3
 
 ---
 ###PROJECTS
 
 - [Photo ID App](photoId.md)
+- [Map App for Local Businesses](map.md) - close source
 - [A production-Process Management Tool](productivity.md)
 - [Puzzle for Toddlers](puzzle.md)
-- [Map App for Local Businesses](map.md) - close source
 - [Crowdsourced Fashion App](http://crowdsourced-fashion.herokuapp.com/)
 - [Education App](http://pajoa.herokuapp.com/)
-- [A Learning Resource for Founders & Coders Students](https://github.com/Neats29/Learn-Heroku)
 - [Open source text editor theme extension](https://github.com/Neats29/Brackets-Midnight-Blue-Theme)
+- [A Learning Resource for Founders & Coders Students](https://github.com/Neats29/Learn-Heroku)
+
 
 ---
 
@@ -34,7 +36,7 @@ I have been working on a variety of projects for clients, using the following te
 
 <img src="https://github.com/Neats29/CV/blob/master/fac.png" width="150">
 
-- Full Stack Freelance Developer (Mar 2015 - Current)
+- Full Stack Freelance Developer (Mar 2015 - Present)
 - 8-Week Intensive Web Development Course (Jan 2015 - Mar 2015) 
 
 
@@ -54,4 +56,13 @@ I have been working on a variety of projects for clients, using the following te
 
 - [LinkedIn](https://uk.linkedin.com/in/anitaamini)
 - [Personal Website](neats29.github.io)
+- [Email: baadge29@yahoo.co.uk](mailto:baadge29@yahoo.co.uk)
 - [Twitter](https://twitter.com/neats29)
+
+###INTERESTS
+* Learning
+* Music Production
+* Food science
+* Documentaries
+* Co-operatives
+* ...and many more
