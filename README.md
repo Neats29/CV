@@ -36,7 +36,7 @@ I have been working on a variety of projects for clients, using the following te
 
 <img src="https://github.com/Neats29/CV/blob/master/wcrs.png" width="150">
 
-- Frontend Developer (Aug 2015 - Present)
+- Developer (Aug 2015 - Present)
 - working on a confidential project for one of the biggest tech companies in the world.
 
 <img src="https://github.com/Neats29/CV/blob/master/fac.png" width="180">
