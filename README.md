@@ -63,7 +63,8 @@ I have been working on a variety of projects for clients, using the following te
 - [Personal Website](neats29.github.io)
 - [Email: anita.amini29@gmail.com](mailto:anita.amini29@gmail.com)
 - [Twitter](https://twitter.com/neats29)
-
+- 
+---
 ###INTERESTS
 * Learning
 * Music Production
