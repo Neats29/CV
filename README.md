@@ -61,7 +61,7 @@ I have been working on a variety of projects for clients, using the following te
 
 - [LinkedIn](https://uk.linkedin.com/in/anitaamini)
 - [Personal Website](neats29.github.io)
-- [Email: baadge29@yahoo.co.uk](mailto:baadge29@yahoo.co.uk)
+- [Email: baadge29@yahoo.co.uk](mailto:anita.amini29@gmail.com)
 - [Twitter](https://twitter.com/neats29)
 
 ###INTERESTS
