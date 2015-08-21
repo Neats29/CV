@@ -14,8 +14,8 @@ I have been working on a variety of projects for clients, using the following te
 | CSS3      | jQuery               | Lab       | Amazon S3    | |
 | SQL       | Leaflet.js           | Mocha     | Heroku       | | 
 | Jade      | Concise.css          |           | Linux        | |
-| Sass      | Codeship             |           | SVN          | |
-| Markdown  | D3.js
+| Sass      |  D3.js               |           | SVN          | |
+| Markdown  |                      |           | Codeship     | |
 
 ---
 ###PROJECTS
