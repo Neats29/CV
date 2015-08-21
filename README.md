@@ -14,8 +14,8 @@ I have been working on a variety of projects for clients, using the following te
 | CSS3      | jQuery               | Lab       | Amazon S3    | |
 | SQL       | Leaflet.js           | Mocha     | Heroku       | | 
 | Jade      | Concise.css          |           | Linux        | |
-| Sass      | Codeship             |           |              | |
-|           | D3
+| Sass      |  D3.js               |           | SVN          | |
+| Markdown  |                      |           | Codeship     | |
 
 ---
 ###PROJECTS
@@ -34,13 +34,18 @@ I have been working on a variety of projects for clients, using the following te
 
 ###EXPERIENCE
 
-<img src="https://github.com/Neats29/CV/blob/master/fac.png" width="150">
+<img src="https://github.com/Neats29/CV/blob/master/wcrs.png" width="150">
+
+- Developer (Aug 2015 - Present)
+- working on a confidential project for one of the biggest tech companies in the world.
+
+<img src="https://github.com/Neats29/CV/blob/master/fac.png" width="180">
 
 - Full Stack Freelance Developer (Mar 2015 - Present)
 - 8-Week Intensive Web Development Course (Jan 2015 - Mar 2015) 
 
 
-<img src="https://github.com/Neats29/CV/blob/master/mrc.png" width="150">
+<img src="https://github.com/Neats29/CV/blob/master/mrc.png" width="210">
 
 - Clinical Data Manager (May 2014 - Feb 2015)
 - Clinical Trials Assistant (May 2013 - May 2014)
@@ -56,13 +61,16 @@ I have been working on a variety of projects for clients, using the following te
 
 - [LinkedIn](https://uk.linkedin.com/in/anitaamini)
 - [Personal Website](neats29.github.io)
-- [Email: baadge29@yahoo.co.uk](mailto:baadge29@yahoo.co.uk)
+- [Email: anita.amini29@gmail.com](mailto:anita.amini29@gmail.com)
 - [Twitter](https://twitter.com/neats29)
 
+---
 ###INTERESTS
 * Learning
 * Music Production
 * Food science
 * Documentaries
 * Co-operatives
-* ...and many more
+* Photography
+* Theoretical Physics
+* ...and more
