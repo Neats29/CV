@@ -1,4 +1,4 @@
-# CV
+# CV - Anita Amini
 
 I am a passionate Javascript and Node.js developer. I love the process of making web applications from the frontend logic and design aspects to the querying of databases and writing the backend process. I also have an eye for design and make artwork in my free time.
 
