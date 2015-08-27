@@ -45,7 +45,7 @@ I have been working on a variety of projects for clients, using the following te
 - 8-Week Intensive Web Development Course (Jan 2015 - Mar 2015) 
 
 
-<img src="https://github.com/Neats29/CV/blob/master/experience/mrc.png" width="210">
+<img src="https://github.com/Neats29/CV/blob/master/experience/mrc.png" width="230">
 
 - Clinical Data Manager (May 2014 - Feb 2015)
 - Clinical Trials Assistant (May 2013 - May 2014)
