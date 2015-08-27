@@ -15,7 +15,7 @@ I have been working on a variety of projects for clients, using the following te
 | SQL       | Leaflet.js           | Mocha     | Heroku       | | 
 | Jade      | Concise.css          |           | Linux        | |
 | Sass      |  D3.js               |           | SVN          | |
-| Markdown  |                      |           | Codeship     | |
+| Markdown  |                      |           | Photoshop    | |
 
 ---
 ###PROJECTS
