@@ -37,7 +37,7 @@ I have been working on a variety of projects for clients, using the following te
 <img src="https://github.com/Neats29/CV/blob/master/experience/wcrs.png" width="145">
 
 - Developer (Aug 2015 - Present)
-- working on a confidential project for one of the biggest tech companies in the world.
+- Currently working on a confidential project for one of the biggest tech companies in the world.
 
 <img src="https://github.com/Neats29/CV/blob/master/experience/fac.png" width="180">
 
