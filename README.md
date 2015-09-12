@@ -67,10 +67,10 @@ I have been working on a variety of projects for clients, using the following te
 ---
 ###INTERESTS
 * Learning
-* Music Production
-* Food science
+* Internet Privacy
+* Food Science
 * Documentaries
 * Co-operatives
-* Photography
+* Music Production
 * Theoretical Physics
-* ...and more
+* And more
