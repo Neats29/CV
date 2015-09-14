@@ -44,7 +44,7 @@ I have been working on a variety of projects for clients, using the following te
 - Full Stack Freelance Developer (Mar 2015 - Present)
 - 8-Week Intensive Web Development Course (Jan 2015 - Mar 2015) 
 
-
+--------- Career Change --------
 <img src="https://github.com/Neats29/CV/blob/master/experience/mrc.png" width="230">
 
 - Clinical Data Manager (May 2014 - Feb 2015)
