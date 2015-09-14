@@ -45,7 +45,7 @@ I have been working on a variety of projects for clients, using the following te
 - 8-Week Intensive Web Development Course (Jan 2015 - Mar 2015) 
 
 
-=== Career Change ===
+<hr style="width: 200px; display: inline-block;"> Career Change <hr style="display: inline-block; width: 200px;">
 
 
 <img src="https://github.com/Neats29/CV/blob/master/experience/mrc.png" width="230">
