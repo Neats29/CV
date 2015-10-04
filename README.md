@@ -64,8 +64,8 @@ I have been working on a variety of projects for clients, using the following te
 
 - [LinkedIn](https://uk.linkedin.com/in/anitaamini)
 - [Website](http://neats29.github.io)
-- [Email: anita.amini29@gmail.com](mailto:anita.amini29@gmail.com)
-- [For encrypted Emails: anita.amini@protonmail.com](mailto:anita.amini@protonmail.com)
+- Email: [anita.amini29@gmail.com](mailto:anita.amini29@gmail.com)
+- For encrypted Emails: [anita.amini@protonmail.com](mailto:anita.amini@protonmail.com)
 - [Twitter](https://twitter.com/neats29)
 
 ---
