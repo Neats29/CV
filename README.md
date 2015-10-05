@@ -71,6 +71,7 @@ I have been working on a variety of projects for clients, using the following te
 ---
 ###INTERESTS
 * Learning
+* Completing programming challenges
 * Internet Privacy
 * Food Science
 * Documentaries
