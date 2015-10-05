@@ -73,9 +73,8 @@ I have been working on a variety of projects for clients, using the following te
 * Learning
 * Completing programming challenges
 * Internet Privacy
-* Food Science
-* Documentaries
 * Co-operatives
+* Food Science
 * Music Production
 * Theoretical Physics
 * And more
