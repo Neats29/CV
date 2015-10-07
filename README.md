@@ -19,7 +19,7 @@ I have been working on a variety of projects for clients, using the following te
 
 <table style="width:100%, color:red;">
   <tr>
-    <td style="color:red;">Jill</td>
+    <td style="background-color:red">Jill</td>
     <td>Smith</td> 
     <td>50</td>
   </tr>
