@@ -17,18 +17,6 @@ I have been working on a variety of projects for clients, using the following te
 | Sass      | D3.js                |           | SVN          | |
 | Markdown  | Angular              |           | Photoshop    | |
 
-<table style="width:100%, color:red;">
-  <tr>
-    <td style="background-color:red">Jill</td>
-    <td>Smith</td> 
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td> 
-    <td>94</td>
-  </tr>
-</table>
 ---
 ###PROJECTS
 
