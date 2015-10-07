@@ -17,7 +17,7 @@ I have been working on a variety of projects for clients, using the following te
 | Sass      | D3.js                |           | SVN          | |
 | Markdown  | Angular              |           | Photoshop    | |
 
-<table style="width:100%">
+<table style="width:100%, color:red;">
   <tr>
     <td>Jill</td>
     <td>Smith</td> 
