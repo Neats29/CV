@@ -27,7 +27,7 @@ I have been working on a variety of projects for clients, using the following te
 - [Crowdsourced Fashion App](http://crowdsourced-fashion.herokuapp.com/)
 - [Education App](http://pajoa.herokuapp.com/)
 - [Open source text editor theme extension](https://github.com/Neats29/Brackets-Midnight-Blue-Theme)
-- [A Learning Resource for Founders & Coders Students](https://github.com/Neats29/Learn-Heroku)
+- [Heroku Deployment Tutorial ](https://github.com/Neats29/Learn-Heroku)
 
 
 ---
