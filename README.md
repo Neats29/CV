@@ -78,4 +78,4 @@ I have been working on a variety of projects for clients, using the following te
 * Theoretical Physics
 * And more
 
-[![HitCount](https://hitt.herokuapp.com/nelsonic/hits.svg)](https://github.com/nelsonic/hits)
+[![HitCount](https://hitt.herokuapp.com/nelsonic/hits.svg)](https://github.com/Neats29/CV)
