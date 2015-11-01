@@ -77,3 +77,5 @@ I have been working on a variety of projects for clients, using the following te
 * Music Production
 * Theoretical Physics
 * And more
+
+[![HitCount](https://hitt.herokuapp.com/nelsonic/hits.svg)](https://github.com/nelsonic/hits) As of 01/11/2015
