@@ -62,10 +62,8 @@ I have been working on a variety of projects for clients, using the following te
 ---
 ###LINKS
 
-- [LinkedIn](https://uk.linkedin.com/in/anitaamini)
-- [Website](http://neats29.github.io)
-- Email: [anita.amini@protonmail.com](mailto:anita.amini@protonmail.com)
-- [Twitter](https://twitter.com/neats29)
+[LinkedIn](https://uk.linkedin.com/in/anitaamini) | [Website](http://neats29.github.io) |
+[anita.amini@protonmail.com](mailto:anita.amini@protonmail.com) | [Twitter](https://twitter.com/neats29)
 
 ---
 ###INTERESTS
