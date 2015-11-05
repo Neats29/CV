@@ -37,15 +37,14 @@ I have been working on a variety of projects for clients, using the following te
 <img src="https://github.com/Neats29/CV/blob/master/experience/wcrs.png" width="145">
 
 - Web Developer (Aug 2015 - Present)
-- Currently working on a confidential project for one of the biggest tech companies in the world.
+- Currently working on a confidential localisation project for one of the biggest tech companies in the world.
+- I have developed skills that allow me to rapidly get familiar with a large codebase, work with a multidisciplinary team, have great attention to detail and meet tight deadlines comfortably.
 
 <img src="https://github.com/Neats29/CV/blob/master/experience/fac.png" width="180">
 
 - Full Stack Freelance Developer (Mar 2015 - Present)
 - 8-Week Intensive Web Development Course (Jan 2015 - Mar 2015) 
-
-
-<!--<hr style="width: 100px; display: inline-block;">Career Change<hr style="display: inline-block; width: 100px;">-->
+- A life changing experience. I discovered my love for web development, learned a tremendous deal and above all, learned how to learn and help others learn.
 
 
 <img src="https://github.com/Neats29/CV/blob/master/experience/mrc.png" width="230">
