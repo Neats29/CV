@@ -38,13 +38,14 @@ I have been working on a variety of projects for clients, using the following te
 
 - Web Developer (Aug 2015 - Present)
 - Currently working on a confidential localisation project for one of the biggest tech companies in the world.
-- I have developed skills that allow me to rapidly get familiar with a large codebase, work with a multidisciplinary team, have great attention to detail and meet tight deadlines comfortably.
+
+- I have developed skills that allow me to rapidly get familiar with a _large codebase_, work with a _multidisciplinary team_, have great _attention to detail_ and meet _tight deadlines_ comfortably.
 
 <img src="https://github.com/Neats29/CV/blob/master/experience/fac.png" width="180">
 
 - Full Stack Freelance Developer (Mar 2015 - Present)
 - 8-Week Intensive Web Development Course (Jan 2015 - Mar 2015) 
-- A life changing experience. I discovered my love for web development, learned a tremendous deal and above all, learned how to learn and help others learn.
+- A _life changing experience_. I discovered my _love for web development_, learned a tremendous deal and above all, learned how to learn and help others learn.
 
 
 <img src="https://github.com/Neats29/CV/blob/master/experience/mrc.png" width="230">
