@@ -36,14 +36,14 @@ I have been working on a variety of projects for clients, using the following te
 
 <img src="https://github.com/Neats29/CV/blob/master/experience/wcrs.png" width="145">
 
-- Web Developer (Aug 2015 - Present)
+- __Web Developer__ (Aug 2015 - Present)
 - Currently working on a confidential localisation project for one of the biggest tech companies in the world.
 
 - I have developed skills that allow me to rapidly get familiar with a __large codebase__, work with a __multidisciplinary team__, have great __attention to detail__ and meet __tight deadlines__ comfortably.
 
 <img src="https://github.com/Neats29/CV/blob/master/experience/fac.png" width="180">
 
-- Full Stack Freelance Developer (Mar 2015 - Present)
+- __Full Stack Freelance Developer__ (Mar 2015 - Present)
 - 8-Week Intensive Web Development Course (Jan 2015 - Mar 2015) 
 
 - A __life changing experience__. I discovered my __love for web development__, __learned a tremendous deal__ and above all, __learned how to learn and help others learn.__
@@ -58,7 +58,7 @@ I have been working on a variety of projects for clients, using the following te
 
 
 ###EDUCATION
-- BSc Hons Pharmaceutical Science 2:1  (Sep 2009 - Jul 2012)
+- BSc Hons Pharmaceutical Science 2:1  (Sep 2009 - Jul 2012) - Kingston University
 
 ---
 ###LINKS
