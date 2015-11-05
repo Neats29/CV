@@ -45,7 +45,7 @@ I have been working on a variety of projects for clients, using the following te
 
 - Full Stack Freelance Developer (Mar 2015 - Present)
 - 8-Week Intensive Web Development Course (Jan 2015 - Mar 2015) 
-- A __life changing experience__. I discovered my __love for web development__, learned a tremendous deal and above all, learned how to learn and help others learn.
+- A __life changing experience__. I discovered my __love for web development__, __learned a tremendous deal__ and above all, __learned how to learn and help others learn.__
 
 
 <img src="https://github.com/Neats29/CV/blob/master/experience/mrc.png" width="230">
