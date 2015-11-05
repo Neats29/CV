@@ -41,7 +41,7 @@ I have been working on a variety of projects for clients, using the following te
 
 - I have developed skills that allow me to rapidly get familiar with a __large codebase__, work with a __multidisciplinary team__, have great __attention to detail__ and meet __tight deadlines__ comfortably.
 
-<img src="https://github.com/Neats29/CV/blob/master/experience/fac.png" width="200">
+<img src="https://github.com/Neats29/CV/blob/master/experience/fac.png" width="210">
 
 - __Full Stack Freelance Developer__ (Mar 2015 - Present)
 - 8-Week Intensive Web Development Course (Jan 2015 - Mar 2015) 
@@ -49,7 +49,7 @@ I have been working on a variety of projects for clients, using the following te
 - A __life changing experience__. I discovered my __love for web development__, __learned a tremendous deal__ and above all, __learned how to learn and help others learn.__
 
 
-<img src="https://github.com/Neats29/CV/blob/master/experience/mrc.png" width="230">
+<img src="https://github.com/Neats29/CV/blob/master/experience/mrc.png" width="240">
 
 - Clinical Data Manager (May 2014 - Feb 2015)
 - Clinical Trials Assistant (May 2013 - May 2014)
