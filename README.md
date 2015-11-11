@@ -40,6 +40,7 @@ I have been working on a variety of projects for clients, using the following te
 |:-------------------------------------:|
 | (Aug 2015 - Present) 4-Month Contract |
 | Currently working on a confidential localisation project for one of the biggest tech companies in the world.|
+| I have developed skills that allow me to rapidly get familiar with a __large codebase__, write __high quality code__, work with a __multidisciplinary team__, have great __attention to detail__ and meet __tight deadlines__ comfortably.|
 
 
 
