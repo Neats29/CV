@@ -36,6 +36,14 @@ I have been working on a variety of projects for clients, using the following te
 
 <img src="https://github.com/Neats29/CV/blob/master/experience/wcrs.png" width="155">
 
+| __Web Developer__                     |  
+|:-------------------------------------:|
+| (Aug 2015 - Present) 4-Month Contract |
+| Currently working on a confidential localisation project for one of the biggest tech companies in the world.|
+
+
+
+
 - __Web Developer__ (Aug 2015 - Present) 4-Month Contract
 - Currently working on a confidential localisation project for one of the biggest tech companies in the world.
 
