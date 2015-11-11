@@ -47,9 +47,7 @@ I have been working on a variety of projects for clients, using the following te
 | Full Stack Freelance Developer (Mar 2015 - Aug 2015)  |  
 |-------------------------------------------------------|
 | Worked on MVPs and projects to create web applications for clients across Europe. |
-
 | 8-Week Intensive Web Development Course (Jan 2015 - Mar 2015) |
-|---------------------------------------------------------------|
 |A __life changing experience__. I discovered my __love for web development__, __learned a tremendous deal__ and above all, __learned how to learn and help others learn.__|
 
 - A __life changing experience__. I discovered my __love for web development__, __learned a tremendous deal__ and above all, __learned how to learn and help others learn.__
