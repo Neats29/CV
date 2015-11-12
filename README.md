@@ -49,6 +49,7 @@ I have been working on a variety of projects for clients, using the following te
 | Worked on MVPs and projects to create web applications for clients across Europe. |
 | 8-Week Intensive Web Development Course (Jan 2015 - Mar 2015) |
 |A __life changing experience__. I discovered my __love for web development__, __learned a tremendous deal__ and above all, __learned how to learn and help others learn.__|
+| As well as learning the skills outlined, I learned __test driven development__, ___agile methodologies___ and __pair programming.__ |
 
 
 <img src="https://github.com/Neats29/CV/blob/master/experience/mrc.png" width="240">
