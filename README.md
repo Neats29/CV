@@ -47,7 +47,7 @@ I have been working on a variety of projects for clients, using the following te
 | Full Stack Freelance Developer (Mar 2015 - Aug 2015)  |  
 |-------------------------------------------------------|
 | Worked on MVPs and projects to create web applications for clients across Europe. |
-| 8-Week Intensive Web Development Course (Jan 2015 - Mar 2015) |
+| __8-Week Intensive Web Development Course (Jan 2015 - Mar 2015)__ |
 |A __life changing experience__. I discovered my __love for web development__, __learned a tremendous deal__ and above all, __learned how to learn and help others learn.__|
 | As well as learning the skills outlined, I learned __test driven development__, __agile methodologies__ and __pair programming.__|
 | I helped teach the course at Founders & Coders by creating learning materials, contributing to the curriculum and mentoring.|
@@ -61,10 +61,9 @@ I have been working on a variety of projects for clients, using the following te
 | Worked on a number of observational studies and prospective cohorts of children and adults living with HIV. |
 | UCL Athena SWAN committee member working to ensure gender equality in the STEM fields. |
 | Member of the CTU Twitter committee, representing the unit on Twitter. |
-
-| Clinical Trials Assistant (May 2013 - May 2014) | 
-|-------------------------------------------------|
+| __Clinical Trials Assistant (May 2013 - May 2014)__ |
 | Worked on a number of HIV and cancer clinical trials. |
+
 --- 
 
 
