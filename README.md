@@ -16,7 +16,6 @@ I have been working on a variety of projects for clients, using the following te
 | Jade      | Concise.css          |           | Linux        | |
 | Sass      | D3.js                |           | SVN          | |
 | Markdown  | Angular              |           | Photoshop    | |
-|           |                      |           | Pivital Tracker | |
 
 ---
 ###PROJECTS
