@@ -74,7 +74,7 @@ I have been working on a variety of projects for clients, using the following te
 ###LINKS
 
 [LinkedIn](https://uk.linkedin.com/in/anitaamini) | [anita.amini@protonmail.com](mailto:anita.amini@protonmail.com) |
-[Twitter](https://twitter.com/neats29) | [Website](http://neats29.github.io)
+[Twitter](https://twitter.com/neats29) | [Codewars](http://www.codewars.com/users/Neats29)
 
 ---
 ###INTERESTS
