@@ -17,7 +17,7 @@ I have been working on a variety of projects for clients, using the following te
 | SQL       | Bootstrap           | Chai      | Heroku       | | 
 | Jade      | Leaflet.js          |           | Linux        | |
 | Sass      | D3.js               |           | SVN          | |
-| Markdown  |                     | Photoshop    | |
+| Markdown  |                     |           | Photoshop    | |
 
 ---
 ###PROJECTS
