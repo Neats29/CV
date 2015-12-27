@@ -12,12 +12,12 @@ I have been working on a variety of projects for clients, using the following te
 |:---------:|:--------------------:|:---------:|:------------:|:---------:|
 | Javascript| Hapi.js              | Tape/Tap  | Git          | PostgreSQL|
 | Node.js   | React.js             | Jest      | npm          | MongoDB   |
-| HTML5     | Bootstrap            | QUnit     | gulp         | |
+| HTML5     | Angular.js           | QUnit     | gulp         | |
 | CSS3      | jQuery               | Lab       | Amazon S3    | |
-| SQL       | Leaflet.js           | Chai      | Heroku       | | 
-| Jade      | Concise.css          |           | Linux        | |
-| Sass      | D3.js                |           | SVN          | |
-| Markdown  | Angular.js          |           | Photoshop    | |
+| SQL       | Bootstrap           | Chai      | Heroku       | | 
+| Jade      | Leaflet.js          |           | Linux        | |
+| Sass      | D3.js               |           | SVN          | |
+| Markdown  |                     | Photoshop    | |
 
 ---
 ###PROJECTS
