@@ -11,10 +11,11 @@ I have been working on a variety of projects for clients, using the following te
 | Languages | Frameworks/Libraries | Testing   | Tools/Others | Databases |
 |:---------:|:--------------------:|:---------:|:------------:|:---------:|
 | Javascript| Hapi.js              | Tape/Tap  | Git          | PostgreSQL|
-| Node.js   | React.js             | Jest      | npm          | MongoDB   |
+| Node.js   | React.js             | Mocha     | npm          | MongoDB   |
 | HTML5     | Angular.js           | QUnit     | gulp         | |
 | CSS3      | jQuery               | Lab       | Amazon S3    | |
-| SQL       | Bootstrap           | Chai      | Heroku       | | 
+| SQL       | Bootstrap           | Chai 
+| Heroku       | | Jest 
 | Jade      | Leaflet.js          |           | Linux        | |
 | Markdown   | D3.js               |           | SVN          | |
 |        | Sass                  |           | Photoshop    | |
