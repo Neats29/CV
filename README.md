@@ -15,10 +15,10 @@ I have been working on a variety of projects for clients, using the following te
 | HTML5     | Angular.js           | QUnit     | gulp         | |
 | CSS3      | jQuery               | Lab       | Amazon S3    | |
 | SQL       | Bootstrap           | Chai 
-| Heroku       | | Jest 
+| Heroku       | Sass             | Jest 
 | Jade      | Leaflet.js          |           | Linux        | |
 | Markdown   | D3.js               |           | SVN          | |
-|        | Sass                  |           | Photoshop    | |
+|        |                   |           | Photoshop    | |
 
 ---
 ###PROJECTS
