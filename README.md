@@ -14,11 +14,11 @@ I have been working on a variety of projects for clients, using the following te
 | Node.js   | React.js             | Mocha     | npm          | MongoDB   |
 | HTML5     | Angular.js           | QUnit     | gulp         | |
 | CSS3      | jQuery               | Lab       | Amazon S3    | |
-| SQL       | Bootstrap           | Chai 
-| Heroku       | Sass             | Jest 
-| Jade      | Leaflet.js          |           | Linux        | |
-| Markdown   | D3.js               |           | SVN          | |
-|        |                   |           | Photoshop    | |
+| SQL       | Bootstrap            | Chai      | Linux        | |
+| Heroku    | Sass                 | Jest      | SVN          | |
+| Jade      | Leaflet.js           |           |  Photoshop   | |
+| Markdown  | D3.js                |           |             | |
+
 
 ---
 ###PROJECTS
