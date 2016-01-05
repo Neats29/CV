@@ -30,8 +30,12 @@ I have been working on a variety of projects for clients, using the following te
 - [React.js Unit Converter](http://neats29.github.io/React-Unit-Converter/pub/)
 - [Crowdsourced Fashion App](http://crowdsourced-fashion.herokuapp.com/)
 - [Education App](http://pajoa.herokuapp.com/)
+
+####OPEN SOURCE CONTRIBUTIONS
 - [Open source text editor theme extension](https://github.com/Neats29/Brackets-Midnight-Blue-Theme)
 - [Heroku Deployment Tutorial ](https://github.com/Neats29/Learn-Heroku)
+- [DuckDuckGo](https://github.com/duckduckgo/zeroclickinfo-goodies)
+<!--- [intermezzOS](https://github.com/intermezzOS/book)-->
 
 
 ---
