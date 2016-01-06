@@ -42,6 +42,11 @@ I have been working on a variety of projects for clients, using the following te
 
 ###EXPERIENCE
 
+
+Cohaesus 
+
+Associate Web Developer
+
 <img src="https://github.com/Neats29/CV/blob/master/experience/wcrs.png" width="155">
 
 |  Web Developer (Aug 2015 - Present) 4-Month Contract  |  
