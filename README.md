@@ -43,9 +43,11 @@ I have been working on a variety of projects for clients, using the following te
 ###EXPERIENCE
 
 
-Cohaesus 
+####Cohaesus 
 
-Associate Web Developer
+#### Associate Web Developer (Jan 2016 - Present)
+
+---
 
 <img src="https://github.com/Neats29/CV/blob/master/experience/wcrs.png" width="155">
 
