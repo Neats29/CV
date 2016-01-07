@@ -42,7 +42,7 @@ I have been working on a variety of projects for clients, using the following te
 
 ###EXPERIENCE
 
-
+![cohaesus](https://cloud.githubusercontent.com/assets/9632022/12145208/d4392aca-b484-11e5-92a2-721c3db7ff01.jpg)
 ####Cohaesus 
 
 #### Associate Web Developer (Jan 2016 - Present)
