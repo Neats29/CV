@@ -45,7 +45,7 @@ I have been working on a variety of projects for clients, using the following te
 <!--![cohaesus](https://cloud.githubusercontent.com/assets/9632022/12145208/d4392aca-b484-11e5-92a2-721c3db7ff01.jpg)-->
 
 
-<img style="border-radius:20px;" src="https://github.com/Neats29/CV/blob/master/experience/cohaesus.png" width="250">
+<img src="https://github.com/Neats29/CV/blob/master/experience/cohaesus.png" width="250">
 
 |  Associate Web Developer (Jan 2016 - Present)  |  
 |------------------------------------------------|
