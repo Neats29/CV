@@ -21,7 +21,7 @@ I have been working on a variety of projects for clients, using the following te
 
 
 ---
-###PROJECTS
+###PROJECTS                                                          open
 
 - [Photo ID App](projects/photoId.md)
 - [Map App for Local Businesses](projects/map.md) - close source
