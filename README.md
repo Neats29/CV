@@ -14,10 +14,9 @@ I have been working on a variety of projects for clients, using the following te
 | Node.js   | React.js             | Mocha     | npm          | MongoDB   |
 | HTML5     | Angular.js           | QUnit     | gulp         | |
 | CSS3      | jQuery               | Lab       | Amazon S3    | |
-| SQL       | Bootstrap            | Chai      | Linux        | |
-| Heroku    | Sass                 | Jest      | SVN          | |
-| Jade      | Leaflet.js           |           |  Photoshop   | |
-| Markdown  | D3.js                |           |             | |
+| SQL       | Bootstrap            | Chai      | Heroku       | |
+| Jade      | Sass                 | Jest      | SVN          | |
+| Markdown  | D3.js                |           | assemble.io  | |
 
 
 ---
