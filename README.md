@@ -16,7 +16,7 @@ I have been working on a variety of projects for clients, using the following te
 | CSS3      | jQuery               | Lab       | Amazon S3    | |
 | SQL       | Bootstrap            | Chai      | Heroku       | |
 | Jade      | Sass                 | Jest      | SVN          | |
-| Markdown  | D3.js                |           | assemble.io  | |
+| Markdown  | D3.js                |           | Assemble.io  | |
 
 
 ---
