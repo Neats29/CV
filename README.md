@@ -42,11 +42,9 @@ I have been working on a variety of projects for clients, using the following te
 ###EXPERIENCE
 
 
-
 <img src="https://github.com/Neats29/CV/blob/master/experience/cohaesus.png" width="250">
 
-|  Associate Web Developer (Jan 2016 - Present)  |  
-|------------------------------------------------|
+####Associate Web Developer (Jan 2016 - Present)
 
 
 <img src="https://github.com/Neats29/CV/blob/master/experience/wcrs.png" width="155">
@@ -58,13 +56,13 @@ I have been working on a variety of projects for clients, using the following te
 
 <img src="https://github.com/Neats29/CV/blob/master/experience/fac.png" width="210">
 
-| Full Stack Freelance Developer (Mar 2015 - Aug 2015)  |  
-|-------------------------------------------------------|
-| Worked on MVPs and projects to create web applications for clients across Europe. |
-| __8-Week Intensive Web Development Course (Jan 2015 - Mar 2015)__ |
-|A __life changing experience__. I discovered my __love for web development__, __learned a tremendous deal__ and above all, __learned how to learn and help others learn.__|
-| As well as learning the skills outlined, I learned __test driven development__, __agile methodologies__ and __pair programming.__|
-| I helped teach the course at Founders & Coders by creating learning materials, contributing to the curriculum and mentoring.|
+####Full Stack Freelance Developer (Mar 2015 - Aug 2015)
+
+- Worked on MVPs and projects to create web applications for clients across Europe. |
+- __8-Week Intensive Web Development Course (Jan 2015 - Mar 2015)__ 
+- A __life changing experience__. I discovered my __love for web development__, __learned a tremendous deal__ and above all, __learned how to learn and help others learn.__
+- As well as learning the skills outlined, I learned __test driven development__, __agile methodologies__ and __pair programming.__
+- I helped teach the course at Founders & Coders by creating learning materials, contributing to the curriculum and mentoring.
 
 
 <img src="https://github.com/Neats29/CV/blob/master/experience/mrc.png" width="240">
