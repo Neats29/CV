@@ -45,6 +45,7 @@ I have been working on a variety of projects for clients, using the following te
 <img src="https://github.com/Neats29/CV/blob/master/experience/cohaesus.png" width="260">
 
 ####Associate Web Developer (Jan 2016 - Present)
+- Work mainly on greenfield projects, developing for top agencies in the UK. 
 
 ===
 <img src="https://github.com/Neats29/CV/blob/master/experience/wcrs.png" width="170">
@@ -67,7 +68,7 @@ I have been working on a variety of projects for clients, using the following te
 - I helped teach the course at Founders & Coders by creating learning materials, contributing to the curriculum and mentoring.
 
 ===
-<img src="https://github.com/Neats29/CV/blob/master/experience/mrc.png" width="240">
+<img src="https://github.com/Neats29/CV/blob/master/experience/mrc.png" width="260">
 
 #### Clinical Data Manager (May 2014 - Feb 2015)
 
