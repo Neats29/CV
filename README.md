@@ -41,34 +41,32 @@ I have been working on a variety of projects for clients, using the following te
 
 ###EXPERIENCE
 
-<!--![cohaesus](https://cloud.githubusercontent.com/assets/9632022/12145208/d4392aca-b484-11e5-92a2-721c3db7ff01.jpg)-->
 
+<img src="https://github.com/Neats29/CV/blob/master/experience/cohaesus.png" width="260">
 
-<img src="https://github.com/Neats29/CV/blob/master/experience/cohaesus.png" width="250">
+####Associate Web Developer (Jan 2016 - Present)
 
-|  Associate Web Developer (Jan 2016 - Present)  |  
-|------------------------------------------------|
+===
+<img src="https://github.com/Neats29/CV/blob/master/experience/wcrs.png" width="170">
 
+####Web Developer (Aug 2015 - Present) 4-Month Contract 
+- Worked on a confidential localisation project for one of the biggest tech companies in the world.|
+- I have developed skills that allow me to rapidly get familiar with a __large codebase__, write __high quality, maintainable code__, as well as __responsive design__, work with a __multidisciplinary team__, have great __attention to detail__ and meet __tight deadlines__ comfortably.
 
-<img src="https://github.com/Neats29/CV/blob/master/experience/wcrs.png" width="155">
+===
+<img src="https://github.com/Neats29/CV/blob/master/experience/fac.png" width="240">
 
-|  Web Developer (Aug 2015 - Present) 4-Month Contract  |  
-|-------------------------------------------------------|
-| Worked on a confidential localisation project for one of the biggest tech companies in the world.|
-| I have developed skills that allow me to rapidly get familiar with a __large codebase__, write __high quality, maintainable code__, as well as __responsive design__, work with a __multidisciplinary team__, have great __attention to detail__ and meet __tight deadlines__ comfortably.|
+####Full Stack Freelance Developer (Mar 2015 - Aug 2015)
 
+- Worked on MVPs and projects to create web applications for clients across Europe.
 
-<img src="https://github.com/Neats29/CV/blob/master/experience/fac.png" width="210">
+#### 8-Week Intensive Web Development Course (Jan 2015 - Mar 2015)
 
-| Full Stack Freelance Developer (Mar 2015 - Aug 2015)  |  
-|-------------------------------------------------------|
-| Worked on MVPs and projects to create web applications for clients across Europe. |
-| __8-Week Intensive Web Development Course (Jan 2015 - Mar 2015)__ |
-|A __life changing experience__. I discovered my __love for web development__, __learned a tremendous deal__ and above all, __learned how to learn and help others learn.__|
-| As well as learning the skills outlined, I learned __test driven development__, __agile methodologies__ and __pair programming.__|
-| I helped teach the course at Founders & Coders by creating learning materials, contributing to the curriculum and mentoring.|
+- A __life changing experience__. I discovered my __love for web development__, __learned a tremendous deal__ and above all, __learned how to learn and help others learn.__
+- As well as learning the skills outlined, I learned __test driven development__, __agile methodologies__ and __pair programming.__
+- I helped teach the course at Founders & Coders by creating learning materials, contributing to the curriculum and mentoring.
 
-
+===
 <img src="https://github.com/Neats29/CV/blob/master/experience/mrc.png" width="240">
 
 | Clinical Data Manager (May 2014 - Feb 2015)  |  
