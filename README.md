@@ -46,7 +46,6 @@ I have been working on a variety of projects for clients, using the following te
 
 ####Associate Web Developer (Jan 2016 - Present)
 
----
 ===
 <img src="https://github.com/Neats29/CV/blob/master/experience/wcrs.png" width="170">
 
@@ -54,7 +53,7 @@ I have been working on a variety of projects for clients, using the following te
 - Worked on a confidential localisation project for one of the biggest tech companies in the world.|
 - I have developed skills that allow me to rapidly get familiar with a __large codebase__, write __high quality, maintainable code__, as well as __responsive design__, work with a __multidisciplinary team__, have great __attention to detail__ and meet __tight deadlines__ comfortably.
 
-
+===
 <img src="https://github.com/Neats29/CV/blob/master/experience/fac.png" width="240">
 
 ####Full Stack Freelance Developer (Mar 2015 - Aug 2015)
@@ -67,7 +66,7 @@ I have been working on a variety of projects for clients, using the following te
 - As well as learning the skills outlined, I learned __test driven development__, __agile methodologies__ and __pair programming.__
 - I helped teach the course at Founders & Coders by creating learning materials, contributing to the curriculum and mentoring.
 
-
+===
 <img src="https://github.com/Neats29/CV/blob/master/experience/mrc.png" width="240">
 
 | Clinical Data Manager (May 2014 - Feb 2015)  |  
