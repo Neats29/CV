@@ -17,7 +17,7 @@ I have been working on a variety of projects for clients, using the following te
 | SQL       | Velocity.js          | Cucumber  | Amazon S3    | |
 | Jade      | Bootstrap            | Chai      | Heroku       | |
 | Markdown  | Sass                 | Jest      | SVN          | |
-|           | Ionic                |           |              | | 
+| Handlebars| Ionic                |           |              | | 
 
 
 
