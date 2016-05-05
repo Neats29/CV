@@ -29,7 +29,6 @@ I have been working on a variety of projects for clients, using the following te
 - [A production-Process Management Tool](projects/productivity.md)
 - [Puzzle for Toddlers](projects/puzzle.md)
 - [React.js Unit Converter](http://neats29.github.io/React-Unit-Converter/pub/)
-- [Crowdsourced Fashion App](http://crowdsourced-fashion.herokuapp.com/)
 - [Education App](http://pajoa.herokuapp.com/)
 
 ####OPEN SOURCE CONTRIBUTIONS
