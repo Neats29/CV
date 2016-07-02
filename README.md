@@ -47,6 +47,10 @@ I have been working on a variety of projects for clients, using the following te
 
 ####Associate Web Developer (Jan 2016 - Present)
 - Work mainly on greenfield projects, developing for top agencies in the UK. 
+- Completing projects from start to finish, alone and in small teams.
+- Being sent out to agencies to start or work on existing projects.
+- Write bespoke build tasks and complex scripts to automate processes used by other developers.
+- Play ping pong after work :)
 
 ===
 <img src="https://github.com/Neats29/CV/blob/master/experience/wcrs.png" width="170">
