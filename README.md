@@ -25,6 +25,7 @@ I have been working on a variety of projects for clients, using the following te
 ###PROJECTS
 - [Connected Homes](http://www.xcomfort.no)
 - [Workspace Annual Report](http://www.workspace.co.uk/onlineannualreport2016/)
+- [Automation Tool](https://github.com/Neats29/ultimate-banner-builder)
 - [Photo ID App](projects/photoId.md)
 - [Map App for Local Businesses](projects/map.md) - close source
 - [A production-Process Management Tool](projects/productivity.md)
