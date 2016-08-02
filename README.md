@@ -2,7 +2,7 @@
 <!--![](https://github.com/Neats29/CV/blob/master/experience/inkedin.svg) -->
 <!-- ![](https://github.com/Neats29/CV/blob/master/experience/mail.svg) ![](https://github.com/Neats29/CV/blob/master/experience/twitter.svg)-->
 
-I am a passionate Javascript and Node.js developer. I love the process of making web applications from the frontend logic and design aspects to the querying of databases and writing the backend process. I also have an eye for design and make artworks in my free time.
+I am a developer who loves writing Javascript and Node.js! I love the process of making web applications from the frontend logic and design aspects to the querying of databases and writing the backend process. I also get overly excited by tooling. 
 
 ###SKILLS
 
