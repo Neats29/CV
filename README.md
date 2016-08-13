@@ -58,7 +58,7 @@ I have been working on a variety of projects for clients, using the following te
 ===
 <img src="https://github.com/Neats29/CV/blob/master/experience/wcrs.png" width="170">
 
-####Web Developer (Aug 2015 - Present) 4-Month Contract 
+####Web Developer (Aug 2015 - Nov 2015) 4-Month Contract 
 - Worked on a confidential localisation project for one of the biggest tech companies in the world.
 - I have developed skills that allow me to rapidly get familiar with a __large codebase__, write __high quality, maintainable code__, as well as __responsive design__, work with a __multidisciplinary team__, have great __attention to detail__ and meet __tight deadlines__ comfortably.
 
