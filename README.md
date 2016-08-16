@@ -10,7 +10,7 @@ I also love vim.
 
 I have been working on a variety of projects for clients, using the following technologies:
 
-| Languages | Frameworks/Libraries | Testing   | Tools/Others | Databases |
+| Languages etc | Frameworks/Libraries | Testing   | Tools/Others | Databases |
 |:---------:|:--------------------:|:---------:|:------------:|:---------:|
 | Javascript| Hapi.js              | Tape/Tap  | Git          | PostgreSQL|
 | Node.js   | React.js             | Mocha     | Linux CL          | MongoDB   |
