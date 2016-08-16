@@ -13,11 +13,11 @@ I have been working on a variety of projects for clients, using the following te
 | Javascript| Hapi.js              | Tape/Tap  | Git          | PostgreSQL|
 | Node.js   | React.js             | Mocha     | npm          | MongoDB   |
 | HTML5     | jQuery          | QUnit     | Gulp & Grunt | |
-| CSS3      | Velocity.js               | Lab       | Assemble.io  | |
-| SQL       | Sass          | Cucumber  | Amazon S3    | |
+| CSS3, Sass     | Velocity.js               | Lab       | Assemble.io  | |
+| SQL       | D3          | Cucumber  | Amazon S3    | |
 | Markdown  | Bootstrap            | Chai      | Heroku       | |
-|           | Ionic                 | Jest      | SVN          | |
-|           | Handlebars, Jade      |           |              | | 
+| Handlebars, Jade          | Ionic                 | Jest      | SVN          | |
+|           |        |           |              | | 
 
 
 
