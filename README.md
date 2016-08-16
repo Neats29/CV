@@ -1,8 +1,10 @@
 # CV - Anita Amini 
-<!--![](https://github.com/Neats29/CV/blob/master/experience/inkedin.svg) -->
-<!-- ![](https://github.com/Neats29/CV/blob/master/experience/mail.svg) ![](https://github.com/Neats29/CV/blob/master/experience/twitter.svg)-->
 
-I am a developer who loves writing Javascript and Node.js! I love the process of making web applications from the frontend logic and design aspects to the querying of databases and writing the backend process. I also get overly excited by tooling. 
+I am a developer who likes writing Javascript and Node.js. I enjoy working on different parts of the stack such as the front-end logic, querying databases and writing RESTful APIs. I am not afraid to get my hands dirty to find the most suitable solutions for the project’s requirements. I am currently learning Go and finding it really fun.
+
+Ultimately, my goal is to become awesome at writing simple, robust, scalable and readable code - through practice, learning and applying different programming paradigms, and by studying the approaches of other developers.
+
+I also love vim.
 
 ###SKILLS
 
