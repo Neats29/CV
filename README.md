@@ -78,15 +78,12 @@ I have been working on a variety of projects for clients, using the following te
 ===
 <img src="https://github.com/Neats29/CV/blob/master/experience/mrc.png" width="260">
 
-#### Clinical Data Manager (May 2014 - Feb 2015)
+#### Clinical Data Manager (May 2013 - Feb 2015)
 
 - Promoted from Clinical Trials Assistant at the MRC Clinical Trials Unit at UCL.
 - Worked on a number of observational studies and prospective cohorts of children and adults living with HIV.
 - UCL Athena SWAN committee member working to ensure gender equality in the STEM fields.
 - Member of the CTU Twitter committee, representing the unit on Twitter.
-
-#### __Clinical Trials Assistant (May 2013 - May 2014)__
-- Worked on a number of HIV and cancer clinical trials.
 
 --- 
 
