@@ -6,7 +6,7 @@ Ultimately, my goal is to become awesome at writing simple, robust, scalable and
 
 I also love vim.
 
-###SKILLS
+### SKILLS
 
 I have been working on a variety of projects for clients, using the following technologies:
 
@@ -23,7 +23,7 @@ I have been working on a variety of projects for clients, using the following te
 
 
 ---
-###PROJECTS
+### PROJECTS
 - [Connected Homes](http://www.xcomfort.no)
 - [D3 map](https://orbitzfeatures.waveinteractive.com/features/100-years-of-national-park-service/)
 - [Workspace Annual Report](http://www.workspace.co.uk/onlineannualreport2016/)
@@ -35,7 +35,7 @@ I have been working on a variety of projects for clients, using the following te
 - [React.js Unit Converter](http://neats29.github.io/React-Unit-Converter/pub/)
 - [Education App](http://pajoa.herokuapp.com/)
 
-####SOME OPEN SOURCE CONTRIBUTIONS / OTHER
+#### SOME OPEN SOURCE CONTRIBUTIONS / OTHER
 - [Talk on Vim](http://slides.com/anitaamini/intro-to-vim-land#)
 - [Open source text editor theme extension](https://github.com/Neats29/Brackets-Midnight-Blue-Theme)
 - [Heroku Deployment Tutorial ](https://github.com/Neats29/Learn-Heroku)
@@ -43,12 +43,12 @@ I have been working on a variety of projects for clients, using the following te
 
 ---
 
-###EXPERIENCE
+### EXPERIENCE
 
 
 <img src="https://github.com/Neats29/CV/blob/master/experience/cohaesus.png" width="260">
 
-####Associate Web Developer (Jan 2016 - Present)
+#### Associate Web Developer (Jan 2016 - Present)
 - Work mainly on greenfield projects, developing for top agencies in the UK. 
 - Completing projects from start to finish, alone and in small teams.
 - Being sent out to agencies to start or work on existing projects.
@@ -58,14 +58,14 @@ I have been working on a variety of projects for clients, using the following te
 ===
 <img src="https://github.com/Neats29/CV/blob/master/experience/wcrs.png" width="170">
 
-####Web Developer (Aug 2015 - Nov 2015) 4-Month Contract 
+#### Web Developer (Aug 2015 - Nov 2015) 4-Month Contract 
 - Worked on a confidential localisation project for one of the biggest tech companies in the world.
 - I have developed skills that allow me to rapidly get familiar with a __large codebase__, write __high quality, maintainable code__, as well as __responsive design__, work with a __multidisciplinary team__, have great __attention to detail__ and meet __tight deadlines__ comfortably.
 
 ===
 <img src="https://github.com/Neats29/CV/blob/master/experience/fac.png" width="240">
 
-####Full Stack Freelance Developer (Mar 2015 - Aug 2015)
+#### Full Stack Freelance Developer (Mar 2015 - Aug 2015)
 
 - Worked on MVPs and projects to create web applications for clients across Europe.
 
@@ -88,17 +88,17 @@ I have been working on a variety of projects for clients, using the following te
 --- 
 
 
-###EDUCATION
+### EDUCATION
 - BSc Hons Pharmaceutical Science 2:1  (Sep 2009 - Jul 2012) - Kingston University
 
 ---
-###LINKS
+### LINKS
 
 [LinkedIn](https://uk.linkedin.com/in/anitaamini) | [anita.amini@protonmail.com](mailto:anita.amini@protonmail.com) |
 [Twitter](https://twitter.com/neats29) | [Codewars](http://www.codewars.com/users/Neats29)
 
 ---
-###INTERESTS
+### INTERESTS
 * Learning
 * Climbing
 * Internet Privacy
