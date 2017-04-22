@@ -41,7 +41,7 @@ I have been working on a variety of projects for clients, using the following te
 - [Heroku Deployment Tutorial ](https://github.com/Neats29/Learn-Heroku)
 - [DuckDuckGo](https://github.com/duckduckgo/zeroclickinfo-goodies)
 
-
+---
 
 ### EXPERIENCE
 
@@ -49,7 +49,7 @@ I have been working on a variety of projects for clients, using the following te
 
 #### Web Developer (Nov 2016 - Present)
 - Building stuff... 😉
-===
+
 
 <img src="https://github.com/Neats29/CV/blob/master/experience/cohaesus.png" width="260">
 
