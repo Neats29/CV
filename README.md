@@ -51,6 +51,7 @@ I have been working on a variety of projects for clients, using the following te
 - Building stuff... 😉
 
 
+
 <img src="https://github.com/Neats29/CV/blob/master/experience/cohaesus.png" width="260">
 
 #### Associate Web Developer (Jan 2016 - Nov 2016)
@@ -59,6 +60,7 @@ I have been working on a variety of projects for clients, using the following te
 - Being sent out to agencies to start or work on existing projects.
 - Write bespoke build tasks and complex scripts to automate processes used by other developers.
 - Play ping pong after work :)
+
 
 
 <img src="https://github.com/Neats29/CV/blob/master/experience/wcrs.png" width="170">
