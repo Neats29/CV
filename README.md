@@ -14,11 +14,10 @@ I have been working on a variety of projects for clients, using the following te
 |:---------:|:--------------------:|:---------:|:------------:|:---------:|
 | Javascript| Hapi.js, Express.js              | Tape/Tap  | Git          | PostgreSQL|
 | Node.js   | React.js             | Mocha     | Linux CL          | MongoDB   |
-| HTML5     | jQuery          | QUnit     | Gulp & Grunt | |
+| Elm    | jQuery          | QUnit     | Gulp & Grunt | |
 | CSS3, Sass     | Velocity.js               | Lab       | Assemble.io  | |
 | SQL       | D3          | Cucumber  | Amazon S3    | |
 | Typescript  | Bootstrap            | Chai      | Heroku       | |
-| Elm  |
 
 
 
