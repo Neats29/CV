@@ -1,10 +1,10 @@
 # CV - Anita Amini 
 
-I am a developer who likes writing Javascript and Node.js. I enjoy working on different parts of the stack such as the front-end logic, querying databases and writing RESTful APIs. I am not afraid to get my hands dirty to find the most suitable solutions for the project’s requirements. I am currently learning Go and finding it really fun.
+I am a developer who enjoys writing Javascript and Node.js. I am not afraid to get my hands dirty to find the most suitable solutions for the project’s requirements. 
 
 Ultimately, my goal is to become awesome at writing simple, robust, scalable and readable code - through practice, learning and applying different programming paradigms, and by studying the approaches of other developers.
 
-I also love vim.
+---
 
 ### SKILLS
 
@@ -12,7 +12,7 @@ I have been working on a variety of projects for clients, using the following te
 
 | Languages etc | Frameworks/Libraries | Testing   | Tools/Others | Databases |
 |:---------:|:--------------------:|:---------:|:------------:|:---------:|
-| Javascript| Hapi.js              | Tape/Tap  | Git          | PostgreSQL|
+| Javascript| Hapi.js, Express.js              | Tape/Tap  | Git          | PostgreSQL|
 | Node.js   | React.js             | Mocha     | Linux CL          | MongoDB   |
 | HTML5     | jQuery          | QUnit     | Gulp & Grunt | |
 | CSS3, Sass     | Velocity.js               | Lab       | Assemble.io  | |
