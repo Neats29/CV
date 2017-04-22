@@ -91,18 +91,18 @@ I have been working on a variety of projects for clients, using the following te
 - Member of the CTU Twitter committee, representing the unit on Twitter.
 
 
-
+---
 
 ### EDUCATION
 - BSc Hons Pharmaceutical Science 2:1  (Sep 2009 - Jul 2012) - Kingston University
 
-
+---
 ### LINKS
 
 [LinkedIn](https://uk.linkedin.com/in/anitaamini) | [anita.amini@protonmail.com](mailto:anita.amini@protonmail.com) |
 [Twitter](https://twitter.com/neats29) | [Codewars](http://www.codewars.com/users/Neats29)
 
-
+---
 ### INTERESTS
 * Learning
 * Climbing
