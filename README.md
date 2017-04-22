@@ -45,7 +45,7 @@ I have been working on a variety of projects for clients, using the following te
 
 ### EXPERIENCE
 
-<img src="https://github.com/Neats29/CV/blob/master/experience/byte.png" width="260">
+<img src="https://github.com/Neats29/CV/blob/master/experience/byte.png" width="100">
 
 #### Web Developer (Nov 2016 - Present)
 
