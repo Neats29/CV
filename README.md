@@ -100,8 +100,7 @@ I have been working on a variety of projects for clients, using the following te
 ---
 ### LINKS
 
-[LinkedIn](https://uk.linkedin.com/in/anitaamini) | [anita.amini@protonmail.com](mailto:anita.amini@protonmail.com) |
-[Twitter](https://twitter.com/neats29) | [Codewars](http://www.codewars.com/users/Neats29)
+[LinkedIn](https://uk.linkedin.com/in/anitaamini) | [Twitter](https://twitter.com/neats29) | [Codewars](http://www.codewars.com/users/Neats29)
 
 ---
 ### INTERESTS
