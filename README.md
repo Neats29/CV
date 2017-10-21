@@ -12,7 +12,7 @@ I have been working on a variety of projects for clients, using the following te
 
 | Languages etc | Frameworks/Libraries | Testing   | Tools/Others | Databases |
 |:---------:|:--------------------:|:---------:|:------------:|:---------:|
-| Javascript| Hapi.js, Express.js              | Tape/Tap  | Git          | PostgreSQL|
+| Javascript| Koa, Express, Hapi           | Tape/Tap  | Git          | PostgreSQL|
 | Node.js   | React.js             | Mocha     | Linux CL          | MongoDB   |
 | Elm    | jQuery          | QUnit     | Gulp & Grunt | |
 | Typescript      | Velocity.js               | Lab       | Assemble.io  | |
