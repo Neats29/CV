@@ -1,6 +1,6 @@
 # CV - Anita Amini 
 
-I am a developer who enjoys writing Javascript and Node.js. I am not afraid to get my hands dirty to find the most suitable solutions for the project’s requirements. 
+I am a developer who likes solving problems, in particular when it means saving someone's time or generally helping them. I am not afraid to get my hands dirty to find the most suitable solutions for the project’s requirements. 
 
 Ultimately, my goal is to become awesome at writing simple, robust, scalable and readable code - through practice, learning and applying different programming paradigms, and by studying the approaches of other developers.
 
@@ -8,17 +8,17 @@ Ultimately, my goal is to become awesome at writing simple, robust, scalable and
 
 ### SKILLS
 
-I have been working on a variety of projects for clients, using the following technologies:
+*Proficient*:
+	Full stack web development using the following:
+	Nodejs, Typescript, Functional JS, PostgreSQL, Elm, Mocha & Chai
+	Augmented Reality (AR) using Lens studio and Facebook AR Studio
 
-| Languages etc | Frameworks/Libraries | Testing   | Tools/Others | Databases |
-|:---------:|:--------------------:|:---------:|:------------:|:---------:|
-| Javascript| Koa, Express, Hapi           | Tape/Tap  | Git          | PostgreSQL|
-| Node.js   | React.js             | Mocha     | Linux CL          | MongoDB   |
-| Elm    | jQuery          | QUnit     | Gulp & Grunt | |
-| Typescript      | Velocity.js               | Lab       | Assemble.io  | |
-| SQL       | D3          | Cucumber  | Amazon S3    | |
-| CSS3, Sass  | Bootstrap            | Chai      | Heroku       | |
+*Familiar*:
+	Blockchain technology and decentralised applications (Dapps) on the Ethereum ecosystem:
+	Solidity, IPFS, Whisper protocol
 
+*Interested*:
+	Cryptography, Software architecture, Elegant code, Effective communication skills, learning about everything there is to       learn.
 
 
 
@@ -47,8 +47,7 @@ I have been working on a variety of projects for clients, using the following te
 <img src="https://github.com/Neats29/CV/blob/master/experience/Byte.png" width="200">
 
 #### Web Developer (Nov 2016 - Present)
-- Building stuff... 😉
-
+- Building chatbots, dashboards, AR experiences and more.
 
 
 <img src="https://github.com/Neats29/CV/blob/master/experience/cohaesus.png" width="260">
