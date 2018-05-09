@@ -10,15 +10,15 @@ Ultimately, my goal is to become awesome at writing simple, robust, scalable and
 
 - **Proficient**:
 	Full stack web development using the following:
-	Nodejs, Typescript, Functional JS, PostgreSQL, Elm, Mocha & Chai
-	Augmented Reality (AR) using Lens studio and Facebook AR Studio
+	- Nodejs, Typescript, Functional JS, PostgreSQL, Elm, Mocha & Chai
+	- Augmented Reality (AR) using Lens studio and Facebook AR Studio
 
 - **Familiar**:
 	Blockchain technology and decentralised applications (Dapps) on the Ethereum ecosystem:
-	Solidity, IPFS, Whisper protocol
+	- Solidity, IPFS, Whisper protocol
 
 - **Interested**:
-	Cryptography, Software architecture, Elegant code, Effective communication skills, learning about everything there is to       learn.
+	 - Cryptography, Software architecture, Elegant code, Effective communication skills, learning about everything there is to       learn.
 
 
 
