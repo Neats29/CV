@@ -1,8 +1,11 @@
 # CV - Anita Amini 
 
-I am a developer who likes solving problems, in particular when it means saving someone's time or generally helping them. I am not afraid to get my hands dirty to find the most suitable solutions for the project’s requirements. 
+I like solving problems by writing code, in particular when it means saving someone's time or generally helping them. I love seeing elegant solutions to problems, thinking about the architecture of a project such as coming up with SQL tables, and ways to write code that adapts seamlessly when things change.
 
-Ultimately, my goal is to become awesome at writing simple, robust, scalable and readable code - through practice, learning and applying different programming paradigms, and by studying the approaches of other developers.
+For the past year, I've been fascinated by blockchain technology and have been learning about it in my spare time.
+
+My biggest passion in life is learning, and I've become fast at it over the years. I love learning about how the world works which usually means learning about technology, philosophy, health, evolution, human psychology etc.
+
 
 ---
 
@@ -10,7 +13,7 @@ Ultimately, my goal is to become awesome at writing simple, robust, scalable and
 
 - **Proficient**:
 	Full stack web development using the following:
-	- Nodejs, Typescript, Functional JS, PostgreSQL, Elm, Mocha & Chai
+	- Node.js, Typescript, PostgreSQL, Elm, Functional programming, Mocha & Chai for testing
 	- Augmented Reality (AR) using Lens studio and Facebook AR Studio
 
 - **Familiar**:
@@ -18,27 +21,8 @@ Ultimately, my goal is to become awesome at writing simple, robust, scalable and
 	- Solidity, IPFS, Whisper protocol
 
 - **Interested**:
-	 - Cryptography, Software architecture, Elegant code, Effective communication skills, learning about everything there is to       learn.
+	 - Cryptography, Software architecture, Elegant code, Effective communication skills, learning about everything there is to learn.
 
-
-
-### PROJECTS
-- [Connected Homes](http://www.xcomfort.no)
-- [D3 map](https://orbitzfeatures.waveinteractive.com/features/100-years-of-national-park-service/)
-- [Workspace Annual Report](http://www.workspace.co.uk/onlineannualreport2016/)
-- [Automation Tool](https://github.com/Neats29/ultimate-banner-builder)
-- [Photo ID App](projects/photoId.md)
-- [Map App for Local Businesses](projects/map.md) - close source
-- [A production-Process Management Tool](projects/productivity.md)
-- [Puzzle for Toddlers](projects/puzzle.md)
-- [React.js Unit Converter](http://neats29.github.io/React-Unit-Converter/pub/)
-- [Education App](http://pajoa.herokuapp.com/)
-
-#### SOME OPEN SOURCE CONTRIBUTIONS / OTHER
-- [Talk on Vim](http://slides.com/anitaamini/intro-to-vim-land#)
-- [Open source text editor theme extension](https://github.com/Neats29/Brackets-Midnight-Blue-Theme)
-- [Heroku Deployment Tutorial ](https://github.com/Neats29/Learn-Heroku)
-- [DuckDuckGo](https://github.com/duckduckgo/zeroclickinfo-goodies)
 
 ---
 
@@ -93,6 +77,26 @@ Ultimately, my goal is to become awesome at writing simple, robust, scalable and
 
 ---
 
+### PROJECTS
+- [First Dapp (game)](https://github.com/Neats29/Decentralised-applications-mid-term)
+- [Connected Homes](http://www.xcomfort.no)
+- [D3 map](https://orbitzfeatures.waveinteractive.com/features/100-years-of-national-park-service/)
+- [Workspace Annual Report](http://www.workspace.co.uk/onlineannualreport2016/)
+- [Automation Tool](https://github.com/Neats29/ultimate-banner-builder)
+- [Photo ID App](projects/photoId.md)
+- [Map App for Local Businesses](projects/map.md) - close source
+- [A production-Process Management Tool](projects/productivity.md)
+- [Puzzle for Toddlers](projects/puzzle.md)
+- [React.js Unit Converter](http://neats29.github.io/React-Unit-Converter/pub/)
+- [Education App](http://pajoa.herokuapp.com/)
+
+#### SOME OPEN SOURCE CONTRIBUTIONS / OTHER
+- [Talk on Vim](http://slides.com/anitaamini/intro-to-vim-land#)
+- [Open source text editor theme extension](https://github.com/Neats29/Brackets-Midnight-Blue-Theme)
+- [Heroku Deployment Tutorial ](https://github.com/Neats29/Learn-Heroku)
+- [DuckDuckGo](https://github.com/duckduckgo/zeroclickinfo-goodies)
+
+--- 
 ### EDUCATION
 - BSc Hons Pharmaceutical Science 2:1  (Sep 2009 - Jul 2012) - Kingston University
 
@@ -106,7 +110,7 @@ Ultimately, my goal is to become awesome at writing simple, robust, scalable and
 * Learning
 * Climbing
 * Internet Privacy
-* Documentaries
+* Podcasts, Books & Documentaries
 * Food Science
 * Music Production
 * Theoretical Physics
