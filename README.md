@@ -1,6 +1,6 @@
 # CV - Anita Amini 
 
-I like solving problems by writing code, in particular when it means saving someone's time or generally helping them. I love seeing elegant solutions to problems, thinking about the architecture of a project such as coming up with SQL tables, and ways to write code that adapts seamlessly when things change.
+I like solving problems by writing code, in particular when it means saving someone's time or generally helping them. I love seeing elegant solutions to problems, thinking about the architecture of a project such as designing an API, and ways to write code that adapts seamlessly when things change.
 
 For the past year, I've been fascinated by blockchain technology and have been learning about it in my spare time.
 
