@@ -16,7 +16,7 @@ My biggest passion in life is learning, and I've become fast at it over the year
 	- Node.js, Typescript, PostgreSQL, Elm, Functional programming, Mocha & Chai for testing
 	- Augmented Reality (AR) using Lens studio and Facebook AR Studio
 
-- **Basic Familiarity**:
+- **Familiar**:
 	Blockchain technology and decentralised applications (Dapps) on the Ethereum ecosystem:
 	- Solidity, IPFS, Whisper protocol
 
