@@ -1,10 +1,8 @@
 # CV - Anita Amini 
 
-I like solving problems by writing code, in particular when it means saving someone's time or generally helping them. I love seeing elegant solutions to problems, thinking about the architecture of a project such as designing an API, and ways to write code that adapts seamlessly when things change.
+I like solving problems by writing code, in particular when it means saving someone's time or generally helping them. I enjoy seeing elegant solutions to problems, thinking about the architecture of a project such as designing an API, and ways to write code that adapts seamlessly when things change.
 
-For the past year, I've been fascinated by blockchain technology and have been learning about it in my spare time.
-
-My biggest passion in life is learning, and I've become fast at it over the years. I love learning about how the world works which usually means learning about technology, philosophy, health, evolution, human psychology etc.
+For the past year, I've been fascinated by blockchain technology and have been learning about it in my spare time. So, now I'd like to work on it full time.
 
 
 ---
