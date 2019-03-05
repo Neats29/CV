@@ -22,7 +22,7 @@ I like solving problems by writing code, in particular when it means saving some
 
 <br/>
 
-<img src="https://github.com/Neats29/CV/blob/master/experience/Byte.png" width="300">
+<img src="https://github.com/Neats29/CV/blob/master/experience/ab.png" width="300">
 
 #### Software Developer (July 2018 - Present)
 Currently working at a blockchain startup which builds Ethereum decentralised apps for other startups as well as large organisations such as Shell, Toyota and SITA to name a few.
