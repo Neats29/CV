@@ -8,8 +8,7 @@ I like solving problems by writing code, in particular when it means saving some
 
 - **Proficient**:
 	Full stack web development using the following:
-	- Node.js, Typescript, PostgreSQL, Elm, Functional programming, Mocha & Chai and Jest for testing
-	- Learning fast, Git, Agile, Writing
+	- Node.js, Typescript, PostgreSQL, Elm, Functional programming, Mocha & Chai and Jest for testing, Git, Agile
 
 - **Familiar**:
 	- Blockchain technology and decentralised applications (Dapps) on the Ethereum ecosystem (Web3, IPFS, Solidity)
