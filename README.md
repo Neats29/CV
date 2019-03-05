@@ -24,7 +24,7 @@ I like solving problems by writing code, in particular when it means saving some
 
 ### EXPERIENCE
 
-<img src="https://github.com/Neats29/CV/blob/master/experience/Byte.png" width="200">
+<img src="https://github.com/Neats29/CV/blob/master/experience/Byte.png" width="300">
 
 #### Web Developer (Nov 2016 - Present)
 - Building chatbots, dashboards, AR experiences and more.
