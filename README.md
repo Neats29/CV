@@ -114,9 +114,8 @@ I have been using the following technologies:
 ### INTERESTS
 * Learning
 * Climbing
-* Internet Privacy
-* Podcasts, Books & Documentaries
+* Podcasts & Books
 * Food Science
+* Internet Privacy
 * Music Production
-* Theoretical Physics
 
