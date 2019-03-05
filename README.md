@@ -1,7 +1,6 @@
 # CV - Anita Amini 
 
-I like solving problems by writing code, in particular when it means saving someone's time or generally helping them. I enjoy seeing elegant solutions to problems, thinking about the architecture of a project such as designing an API, and ways to write code that adapts seamlessly when things change. For the past year, I've been fascinated by blockchain technology and have been learning about it in my spare time.
-
+I like solving problems by writing code, in particular when it means saving someone's time or generally helping them. I enjoy seeing elegant solutions to problems, thinking about the architecture of a project such as designing an API, and ways to write code that adapts seamlessly when things change. I love learning and write to write about my learnings on my blog [infodistillery.com](https://infodistillery.com/).
 
 ---
 
@@ -9,31 +8,41 @@ I like solving problems by writing code, in particular when it means saving some
 
 - **Proficient**:
 	Full stack web development using the following:
-	- Node.js, Typescript, PostgreSQL, Elm, Functional programming, Mocha & Chai for testing
-	- Augmented Reality (AR) using Lens studio and Facebook AR Studio
+	- Node.js, Typescript, PostgreSQL, Elm, Functional programming, Mocha & Chai and Jest for testing, Git, Agile
 
 - **Familiar**:
-	Blockchain technology and decentralised applications (Dapps) on the Ethereum ecosystem:
-	- Solidity, IPFS, Whisper protocol
-
-- **Interested**:
-	 - Cryptography, Software architecture, Elegant code, Effective communication skills, learning about everything there is to learn.
-
+	- Blockchain technology and decentralised applications (Dapps) on the Ethereum ecosystem (Web3, IPFS, Solidity)
+	- CircleCi, Docker and Docker Swarm
+	- React.js
+	- Augmented Reality (AR) using Lens studio and Facebook AR Studio
 
 ---
 
 ### EXPERIENCE
 
+<br/>
+
 <img src="https://github.com/Neats29/CV/blob/master/experience/Byte.png" width="300">
 
-#### Web Developer (Nov 2016 - Present)
-- Building chatbots, dashboards, AR experiences and more.
+#### Software Developer (July 2018 - Present)
+Currently working at a blockchain startup which builds Ethereum decentralised apps for other startups as well as large organisations such as Shell, Toyota and SITA to name a few.
+
+I have been using the following technologies:
+- Node.js using Koa.js and testing with Jest and circle CI with continuous integration
+- Web3, IPFS and some Solidity
+- Some exposure to DevOps such as Docker and Docker Swarm
+
+
+<img src="https://github.com/Neats29/CV/blob/master/experience/Byte.png" width="200">
+
+#### Web Developer (Nov 2016 - July 2018)
+- Predominantly worked in Nodejs, typescript and PostgreSQL, building chatbots, automation tools, AR experiences, as well as internal dashboards in Elm.
 
 
 <img src="https://github.com/Neats29/CV/blob/master/experience/cohaesus.png" width="260">
 
-#### Associate Web Developer (Jan 2016 - Nov 2016)
-- Work mainly on greenfield projects, developing for top agencies in the UK. 
+#### Web Developer (Jan 2016 - Nov 2016)
+- Worked mainly on greenfield projects, developing for top agencies in the UK. 
 - Completing projects from start to finish, alone and in small teams.
 - Being sent out to agencies to start or work on existing projects.
 - Write bespoke build tasks and complex scripts to automate processes used by other developers.
