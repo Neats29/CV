@@ -41,7 +41,7 @@ I have been using the following technologies:
 
 <img src="https://github.com/Neats29/CV/blob/master/experience/cohaesus.png" width="260">
 
-#### Web Developer (Jan 2016 - Nov 2016)
+#### Web Developer (Dec 2015 - Nov 2016)
 - Worked mainly on greenfield projects, developing for top agencies in the UK. 
 - Completing projects from start to finish, alone and in small teams.
 - Being sent out to agencies to start or work on existing projects.
