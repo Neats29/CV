@@ -1,5 +1,7 @@
 # CV - Anita Amini 
 
+(Please see linkedin for the most up to date version of my cv https://www.linkedin.com/in/anitaamini/)
+
 I like solving problems by writing code, in particular when it means saving someone's time or generally helping them. I enjoy seeing elegant solutions to problems, thinking about the architecture of a project such as designing an API, and ways to write code that adapts seamlessly when things change. I love learning about the world and have started writing about my learnings on my blog [infodistillery.com](https://infodistillery.com/).
 
 ---
